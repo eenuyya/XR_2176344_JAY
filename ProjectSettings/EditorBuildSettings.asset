@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/HW02_2176344_JAY/IndoorScene.unity
+    guid: ed8af2d15ccf2467885dec575df7b5d8
+  - enabled: 1
+    path: Assets/HW02_2176344_JAY/OutdoorScene.unity
+    guid: ecbaf6ce50e384b198de6c8a7bfef064
   m_configObjects: {}
