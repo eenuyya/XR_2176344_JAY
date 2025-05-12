@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/HW02_2176344_JAY/IndoorScene.unity
-    guid: ed8af2d15ccf2467885dec575df7b5d8
+    path: Assets/HW04_2176344_JAY/Scene01.unity
+    guid: 512c8efd69b4f487d9b00fcc6f9825d6
   - enabled: 1
-    path: Assets/HW02_2176344_JAY/OutdoorScene.unity
-    guid: ecbaf6ce50e384b198de6c8a7bfef064
+    path: Assets/HW04_2176344_JAY/Scene02.unity
+    guid: 872ffa4b96fee4cf3a9519e034bb1ddd
   m_configObjects: {}
